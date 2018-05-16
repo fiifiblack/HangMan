@@ -10,7 +10,7 @@ package hangMan;
 	public class HangWord {
 		/**
 		 * Evans Appiah, ITTP @author GCE HangMang Project 02/26/2018 Contact Evans (
-		 * evans.appiah@me.com) if you want a copy of this property All rights reserved.
+		 * evans.appiah@me.com) .
 		 */
 		static {
 			System.out.println("Welcome to Hangman game." + '\n' + "Please follow instructions:" + '\n'
